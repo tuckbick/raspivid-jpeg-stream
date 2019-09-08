@@ -1,0 +1,32 @@
+{
+  "name": "raspivid-jpeg-stream",
+  "version": "1.0.0",
+  "description": "Connect to your Raspberry Pi camera and receive a stream of JPEG frames",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuckbick/raspivid-jpeg-stream.git"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "camera",
+    "raspivid",
+    "jpeg",
+    "mjpeg",
+    "video",
+    "stream"
+  ],
+  "author": {
+    "name" : "Tucker Bickler",
+    "email" : "tuckersworld@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuckbick/raspivid-jpeg-stream/issues"
+  },
+  "homepage": "https://github.com/tuckbick/raspivid-jpeg-stream#readme"
+}
