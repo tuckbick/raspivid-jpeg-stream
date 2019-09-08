@@ -21,12 +21,16 @@
     "stream"
   ],
   "author": {
-    "name" : "Tucker Bickler",
-    "email" : "tuckersworld@gmail.com"
+    "name": "Tucker Bickler",
+    "email": "tuckersworld@gmail.com"
   },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tuckbick/raspivid-jpeg-stream/issues"
   },
-  "homepage": "https://github.com/tuckbick/raspivid-jpeg-stream#readme"
+  "homepage": "https://github.com/tuckbick/raspivid-jpeg-stream#readme",
+  "dependencies": {
+    "raspivid": "^1.0.0",
+    "split-frames": "^2.4.2"
+  }
 }
