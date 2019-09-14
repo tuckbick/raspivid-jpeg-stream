@@ -2,7 +2,7 @@
 
 [![NPM Version](https://img.shields.io/npm/v/raspivid-jpeg-stream.svg?style=flat-square)](https://www.npmjs.com/package/raspivid-jpeg-stream)
 [![Dependency Status](https://david-dm.org/tuckbick/raspivid-jpeg-stream.svg?theme=shields.io)](https://david-dm.org/tuckbick/raspivid-jpeg-stream)
-[![NPM Downloads](https://img.shields.io/npm/dm/tuckbick/raspivid-jpeg-stream.svg?style=flat-square)](https://npm-stat.com/charts.html?package=tuckbick/raspivid-jpeg-stream)
+[![NPM Downloads](https://img.shields.io/npm/dm/raspivid-jpeg-stream.svg?style=flat-square)](https://npm-stat.com/charts.html?package=raspivid-jpeg-stream)
 
 A read stream for jpeg data from the Raspberry Pi camera module. Uses the [`raspivid` node module](https://github.com/binocarlos/raspivid) for interfacing with the official [`raspivid` cli](https://www.raspberrypi.org/documentation/usage/camera/raspicam/raspivid.md).
 
